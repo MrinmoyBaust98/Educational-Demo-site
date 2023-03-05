@@ -1,0 +1,16 @@
+.footer-container{
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.first-part{
+    margin: 10px 0px 10px 30px;
+}
+.foter-para{
+    width: 500px;
+}
+.contact-part{
+   margin-right: 40px;
+}

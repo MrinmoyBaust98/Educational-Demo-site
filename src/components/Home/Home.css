@@ -1,0 +1,20 @@
+.contain-1{
+    padding-top: 10px;
+    background-image: linear-gradient(to right, rgb(192, 192, 139), rgb(231, 187, 187));
+}
+.text{
+    font-size: 1.5rem;
+    text-align: center;
+    color: rgb(39, 4, 4); 
+}
+.contain-2{
+    background-color: #e7e7e7;
+ 
+}
+.text p{
+    font-size: 1.4rem;
+    font-weight:600;
+    color: rgb(54, 98, 180);
+}
+
+

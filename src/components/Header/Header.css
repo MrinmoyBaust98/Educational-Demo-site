@@ -1,0 +1,32 @@
+.logo img{
+    width: 90px;
+    height: 37px;
+    position: absolute;
+    margin-top:13px ;
+    margin-left: 80px;
+}
+.nav-cotainer{
+    display: flex;
+    justify-content:center;
+    background-image: linear-gradient(to right, #52074b, rgb(135, 135, 76));
+    line-height: 30px; 
+    
+}
+.nav-cotainer .active{
+    color: rgb(38, 9, 143);
+    background-color: rgba(232, 236, 236, 0.878);
+    padding: 19px 10px;
+    font-weight: bolder;
+}
+.nav-cotainer li{
+    display: inline-block; 
+    margin-left: 40px; 
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+    font-size: 1.4rem;
+    font-weight: 500;
+    
+}
+
